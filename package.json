@@ -1,0 +1,22 @@
+{
+  "name": "objectassignsamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "objectassignsample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juke-99/ObjectAssignSample.git"
+  },
+  "author": "juke-99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juke-99/ObjectAssignSample/issues"
+  },
+  "homepage": "https://github.com/Juke-99/ObjectAssignSample#readme",
+  "dependencies": {
+    "object-assign": "^4.1.1"
+  }
+}
